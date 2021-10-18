@@ -2,7 +2,8 @@
 ![Logo](https://i.ibb.co/ry3w6cw/flb-website-min.jpg)
 
     
-# FLB Music
+# Nafsi music player
+A fork of flb music player
 
 A Beautiful🌹 and Feature Rich💎 Cross Platform Music Player and Downloader.
 Visit 🔗https://fellthebeat.xyz to download ⬇
@@ -20,6 +21,8 @@ Visit 🔗https://fellthebeat.xyz to download ⬇
 - Automatically generates mixes based on your listening 🕺
 - Mini Mode 🤏
 - Equalizer 🎛
+- Lipa na mpesa intergration
+- intergration with woo commerce
 
   
 ## Screenshots 😎
